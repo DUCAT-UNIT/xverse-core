@@ -32,7 +32,7 @@ export const WALLET_CONFIG_PATH = `m/44/5757'/0'/1`;
  */
 // BTC
 export const BTC_BASE_URI_MAINNET = 'https://mempool.space/api';
-export const BTC_BASE_URI_TESTNET = 'https://mempool.space/testnet/api';
+export const BTC_BASE_URI_TESTNET = 'http://localhost:3002';
 export const BTC_BASE_URI_SIGNET = 'https://mempool.space/signet/api';
 export const XVERSE_BTC_BASE_URI_MAINNET = 'https://btc-1.xverse.app';
 export const XVERSE_BTC_BASE_URI_TESTNET = 'https://btc-testnet.xverse.app';
