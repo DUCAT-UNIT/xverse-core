@@ -15,7 +15,7 @@ const bitcoinMainnet: BitcoinNetwork = {
 };
 
 const bitcoinTestnet: BitcoinNetwork = {
-  bech32: 'tb',
+  bech32: 'bcrt',
   pubKeyHash: 0x6f,
   scriptHash: 0xc4,
   wif: 0xef,
